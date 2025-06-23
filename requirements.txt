@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+pymupdf
+sentence-transformers
+chromadb
+nltk
+tiktoken
+python-dotenv
+unstructured
+numpy>=1.24.3  # Keeping minimum version for better compatibility
