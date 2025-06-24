@@ -67,7 +67,7 @@ python document_summarizer.py path/to/document.md \
 | `--reprocess`         | Force reprocessing of the document even if vector store exists              |
 
 ---
-
+### 🔹 You can also run the streamlit app (document_summarizer_app.py)
 ## 📚 How It Works
 
 1. **Load** the document using format-specific LangChain loaders
